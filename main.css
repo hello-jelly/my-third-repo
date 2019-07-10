@@ -1,0 +1,40 @@
+h1 {
+    color: slateblue;
+    font-size: 50px;
+    margin: 10px;
+}
+
+h2 {
+    margin: 20xp;
+    padding: 20px;
+    border: 1px solid lavenderblush;
+    background: lavenderblush;
+    font-family: sans-serif;
+}
+
+h3 {
+    font-family: sans-serif;
+}
+
+p {
+    font-family: sans-serif
+}
+
+ul {
+    color: slateblue;
+    font-family: sans-serif;
+}
+.main-header {
+    display: flex;
+    align-items: center;
+}
+
+.lead {
+        font-weight: bold;
+        font-size: 1.1rem;
+        text-decoration: bold;
+}
+
+.main-img {
+    border: thick black solid
+}
